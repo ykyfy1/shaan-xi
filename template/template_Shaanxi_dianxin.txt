@@ -144,3 +144,5 @@ http://ipipip/rtp/239.112.205.201:5140
 http://ipipip/rtp/239.111.205.15:5140
 #EXTINF:-1 tvg-id="1" tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="卫视高清",新动漫
 http://ipipip/rtp/239.110.205.87:7928
+#EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视高清",农林卫视
+http://ipipip/rtp/239.112.205.26:5140
