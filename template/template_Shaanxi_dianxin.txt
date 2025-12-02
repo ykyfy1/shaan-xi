@@ -90,6 +90,8 @@ http://ipipip/rtp/239.111.205.102:5140
 http://ipipip/rtp/239.111.205.98:5140
 #EXTINF:-1 tvg-id="1" tvg-name="陕西秦腔" tvg-logo="https://live.fanmingming.com/tv/陕西秦腔.png" group-title="卫视高清",陕西秦腔
 http://ipipip/rtp/239.111.205.100:5140
+#EXTINF:-1 tvg-id="1" tvg-name="西安新闻综合" tvg-logo="https://live.fanmingming.com/tv/西安新闻综合.png" group-title="卫视高清",西安新闻综合
+http://ipipip/rtp/239.111.205.27:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡综合" tvg-logo="https://live.fanmingming.com/tv/宝鸡综合.png" group-title="卫视高清",宝鸡综合
 http://ipipip/rtp/239.112.205.143:5140
 #EXTINF:-1 tvg-id="1" tvg-name="宝鸡公共" tvg-logo="https://live.fanmingming.com/tv/宝鸡公共.png" group-title="卫视高清",宝鸡公共
@@ -146,3 +148,4 @@ http://ipipip/rtp/239.111.205.15:5140
 http://ipipip/rtp/239.110.205.87:7928
 #EXTINF:-1 tvg-id="1" tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视高清",农林卫视
 http://ipipip/rtp/239.112.205.26:5140
+
